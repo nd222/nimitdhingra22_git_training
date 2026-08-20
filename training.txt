@@ -1,1 +1,2 @@
 This is my Git training repository.
+This file was modified after the first commit.
